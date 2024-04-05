@@ -1,0 +1,493 @@
+
+ Timp: 1
+Clientii care asteapta:
+{id:16,tS:3,tA:4} {id:27,tS:4,tA:3} {id:14,tS:6,tA:2} {id:33,tS:7,tA:6} {id:41,tS:7,tA:1} {id:45,tS:7,tA:3} {id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: inchis
+Ghiseu 2: inchis
+Ghiseu 3: inchis
+Ghiseu 4: inchis
+Ghiseu 5: inchis
+
+
+ Timp: 2
+Clientii care asteapta:
+{id:16,tS:3,tA:4} {id:27,tS:4,tA:3} {id:14,tS:6,tA:2} {id:33,tS:7,tA:6} {id:41,tS:7,tA:1} {id:45,tS:7,tA:3} {id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: inchis
+Ghiseu 2: inchis
+Ghiseu 3: inchis
+Ghiseu 4: inchis
+Ghiseu 5: inchis
+
+
+ Timp: 3
+Clientii care asteapta:
+{id:27,tS:4,tA:3} {id:14,tS:6,tA:2} {id:33,tS:7,tA:6} {id:41,tS:7,tA:1} {id:45,tS:7,tA:3} {id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:16,tS:3,tA:4} 
+Ghiseu 2: inchis
+Ghiseu 3: inchis
+Ghiseu 4: inchis
+Ghiseu 5: inchis
+
+
+ Timp: 4
+Clientii care asteapta:
+{id:14,tS:6,tA:2} {id:33,tS:7,tA:6} {id:41,tS:7,tA:1} {id:45,tS:7,tA:3} {id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:16,tS:3,tA:3} 
+Ghiseu 2: {id:27,tS:4,tA:3} 
+Ghiseu 3: inchis
+Ghiseu 4: inchis
+Ghiseu 5: inchis
+
+
+ Timp: 5
+Clientii care asteapta:
+{id:14,tS:6,tA:2} {id:33,tS:7,tA:6} {id:41,tS:7,tA:1} {id:45,tS:7,tA:3} {id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:16,tS:3,tA:3} 
+Ghiseu 2: {id:27,tS:4,tA:2} 
+Ghiseu 3: inchis
+Ghiseu 4: inchis
+Ghiseu 5: inchis
+
+
+ Timp: 6
+Clientii care asteapta:
+{id:33,tS:7,tA:6} {id:41,tS:7,tA:1} {id:45,tS:7,tA:3} {id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:16,tS:3,tA:1} 
+Ghiseu 2: {id:27,tS:4,tA:1} 
+Ghiseu 3: {id:14,tS:6,tA:2} 
+Ghiseu 4: inchis
+Ghiseu 5: inchis
+
+
+ Timp: 7
+Clientii care asteapta:
+{id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:45,tS:7,tA:4} 
+Ghiseu 2: inchis
+Ghiseu 3: {id:14,tS:6,tA:1} 
+Ghiseu 4: {id:33,tS:7,tA:6} 
+Ghiseu 5: {id:41,tS:7,tA:1} 
+
+
+ Timp: 8
+Clientii care asteapta:
+{id:9,tS:9,tA:1} {id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:45,tS:7,tA:3} 
+Ghiseu 2: inchis
+Ghiseu 3: inchis
+Ghiseu 4: {id:33,tS:7,tA:5} 
+Ghiseu 5: inchis
+
+
+ Timp: 9
+Clientii care asteapta:
+{id:21,tS:10,tA:4} {id:28,tS:10,tA:4} {id:39,tS:10,tA:2} {id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:45,tS:7,tA:2} 
+Ghiseu 2: {id:9,tS:9,tA:1} 
+Ghiseu 3: inchis
+Ghiseu 4: {id:33,tS:7,tA:4} 
+Ghiseu 5: inchis
+
+
+ Timp: 10
+Clientii care asteapta:
+{id:7,tS:11,tA:2} {id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:45,tS:7,tA:1} 
+Ghiseu 2: {id:39,tS:10,tA:3} 
+Ghiseu 3: {id:21,tS:10,tA:4} 
+Ghiseu 4: {id:33,tS:7,tA:3} 
+Ghiseu 5: {id:28,tS:10,tA:4} 
+
+
+ Timp: 11
+Clientii care asteapta:
+{id:37,tS:12,tA:4} {id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:7,tS:11,tA:3} 
+Ghiseu 2: {id:39,tS:10,tA:2} 
+Ghiseu 3: {id:21,tS:10,tA:3} 
+Ghiseu 4: {id:33,tS:7,tA:2} 
+Ghiseu 5: {id:28,tS:10,tA:3} 
+
+
+ Timp: 12
+Clientii care asteapta:
+{id:10,tS:13,tA:4} {id:22,tS:13,tA:6} {id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:7,tS:11,tA:2} 
+Ghiseu 2: {id:39,tS:10,tA:1} {id:37,tS:12,tA:5} 
+Ghiseu 3: {id:21,tS:10,tA:2} 
+Ghiseu 4: {id:33,tS:7,tA:1} 
+Ghiseu 5: {id:28,tS:10,tA:2} 
+
+
+ Timp: 13
+Clientii care asteapta:
+{id:38,tS:14,tA:5} {id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:7,tS:11,tA:1} {id:22,tS:13,tA:7} 
+Ghiseu 2: {id:37,tS:12,tA:5} 
+Ghiseu 3: {id:21,tS:10,tA:1} 
+Ghiseu 4: {id:10,tS:13,tA:5} 
+Ghiseu 5: {id:28,tS:10,tA:1} 
+
+
+ Timp: 14
+Clientii care asteapta:
+{id:11,tS:15,tA:1} {id:30,tS:15,tA:1} {id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:22,tS:13,tA:7} 
+Ghiseu 2: {id:37,tS:12,tA:4} 
+Ghiseu 3: {id:38,tS:14,tA:6} 
+Ghiseu 4: {id:10,tS:13,tA:4} 
+Ghiseu 5: inchis
+
+
+ Timp: 15
+Clientii care asteapta:
+{id:17,tS:16,tA:1} {id:40,tS:16,tA:5} {id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:22,tS:13,tA:6} 
+Ghiseu 2: {id:37,tS:12,tA:3} 
+Ghiseu 3: {id:38,tS:14,tA:5} 
+Ghiseu 4: {id:10,tS:13,tA:3} 
+Ghiseu 5: {id:11,tS:15,tA:1} {id:30,tS:15,tA:2} 
+
+
+ Timp: 16
+Clientii care asteapta:
+{id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:22,tS:13,tA:5} 
+Ghiseu 2: {id:37,tS:12,tA:2} {id:17,tS:16,tA:2} 
+Ghiseu 3: {id:38,tS:14,tA:5} 
+Ghiseu 4: {id:10,tS:13,tA:2} {id:40,tS:16,tA:6} 
+Ghiseu 5: {id:30,tS:15,tA:2} 
+
+
+ Timp: 17
+Clientii care asteapta:
+{id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:22,tS:13,tA:4} 
+Ghiseu 2: {id:37,tS:12,tA:1} {id:17,tS:16,tA:2} 
+Ghiseu 3: {id:38,tS:14,tA:3} 
+Ghiseu 4: {id:10,tS:13,tA:1} {id:40,tS:16,tA:6} 
+Ghiseu 5: {id:30,tS:15,tA:1} 
+
+
+ Timp: 18
+Clientii care asteapta:
+{id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:22,tS:13,tA:3} 
+Ghiseu 2: {id:17,tS:16,tA:2} 
+Ghiseu 3: {id:38,tS:14,tA:2} 
+Ghiseu 4: {id:40,tS:16,tA:6} 
+Ghiseu 5: inchis
+
+
+ Timp: 19
+Clientii care asteapta:
+{id:24,tS:20,tA:1} {id:42,tS:20,tA:2} {id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:22,tS:13,tA:2} 
+Ghiseu 2: {id:17,tS:16,tA:1} 
+Ghiseu 3: {id:38,tS:14,tA:1} 
+Ghiseu 4: {id:40,tS:16,tA:5} 
+Ghiseu 5: inchis
+
+
+ Timp: 20
+Clientii care asteapta:
+{id:18,tS:21,tA:1} {id:26,tS:21,tA:2} {id:44,tS:21,tA:5} {id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:22,tS:13,tA:1} 
+Ghiseu 2: {id:42,tS:20,tA:3} 
+Ghiseu 3: inchis
+Ghiseu 4: {id:40,tS:16,tA:4} 
+Ghiseu 5: {id:24,tS:20,tA:1} 
+
+
+ Timp: 21
+Clientii care asteapta:
+{id:19,tS:22,tA:2} {id:36,tS:22,tA:5} {id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:26,tS:21,tA:3} 
+Ghiseu 2: {id:42,tS:20,tA:2} 
+Ghiseu 3: {id:18,tS:21,tA:1} 
+Ghiseu 4: {id:40,tS:16,tA:3} 
+Ghiseu 5: {id:44,tS:21,tA:6} 
+
+
+ Timp: 22
+Clientii care asteapta:
+{id:1,tS:23,tA:5} {id:47,tS:23,tA:6} {id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:26,tS:21,tA:2} 
+Ghiseu 2: {id:42,tS:20,tA:1} {id:36,tS:22,tA:6} 
+Ghiseu 3: {id:19,tS:22,tA:3} 
+Ghiseu 4: {id:40,tS:16,tA:2} 
+Ghiseu 5: {id:44,tS:21,tA:5} 
+
+
+ Timp: 23
+Clientii care asteapta:
+{id:13,tS:24,tA:2} {id:46,tS:24,tA:1} {id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:26,tS:21,tA:1} {id:1,tS:23,tA:6} 
+Ghiseu 2: {id:36,tS:22,tA:6} 
+Ghiseu 3: {id:19,tS:22,tA:2} 
+Ghiseu 4: {id:40,tS:16,tA:1} {id:47,tS:23,tA:7} 
+Ghiseu 5: {id:44,tS:21,tA:4} 
+
+
+ Timp: 24
+Clientii care asteapta:
+{id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:1,tS:23,tA:6} 
+Ghiseu 2: {id:36,tS:22,tA:5} 
+Ghiseu 3: {id:19,tS:22,tA:1} {id:13,tS:24,tA:3} 
+Ghiseu 4: {id:47,tS:23,tA:7} 
+Ghiseu 5: {id:44,tS:21,tA:3} {id:46,tS:24,tA:2} 
+
+
+ Timp: 25
+Clientii care asteapta:
+{id:20,tS:26,tA:3} {id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:1,tS:23,tA:5} 
+Ghiseu 2: {id:36,tS:22,tA:4} 
+Ghiseu 3: {id:13,tS:24,tA:3} 
+Ghiseu 4: {id:47,tS:23,tA:6} 
+Ghiseu 5: {id:44,tS:21,tA:2} {id:46,tS:24,tA:2} 
+
+
+ Timp: 26
+Clientii care asteapta:
+{id:23,tS:27,tA:3} {id:48,tS:27,tA:2} {id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:1,tS:23,tA:4} 
+Ghiseu 2: {id:36,tS:22,tA:3} 
+Ghiseu 3: {id:13,tS:24,tA:2} {id:20,tS:26,tA:4} 
+Ghiseu 4: {id:47,tS:23,tA:5} 
+Ghiseu 5: {id:44,tS:21,tA:1} {id:46,tS:24,tA:2} 
+
+
+ Timp: 27
+Clientii care asteapta:
+{id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:1,tS:23,tA:3} 
+Ghiseu 2: {id:36,tS:22,tA:2} {id:23,tS:27,tA:4} 
+Ghiseu 3: {id:13,tS:24,tA:1} {id:20,tS:26,tA:4} 
+Ghiseu 4: {id:47,tS:23,tA:4} 
+Ghiseu 5: {id:46,tS:24,tA:2} {id:48,tS:27,tA:3} 
+
+
+ Timp: 28
+Clientii care asteapta:
+{id:2,tS:29,tA:5} {id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:1,tS:23,tA:2} 
+Ghiseu 2: {id:36,tS:22,tA:1} {id:23,tS:27,tA:4} 
+Ghiseu 3: {id:20,tS:26,tA:4} 
+Ghiseu 4: {id:47,tS:23,tA:3} 
+Ghiseu 5: {id:46,tS:24,tA:1} {id:48,tS:27,tA:3} 
+
+
+ Timp: 29
+Clientii care asteapta:
+{id:3,tS:30,tA:3} {id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:1,tS:23,tA:2} {id:2,tS:29,tA:6} 
+Ghiseu 2: {id:23,tS:27,tA:4} 
+Ghiseu 3: {id:20,tS:26,tA:3} 
+Ghiseu 4: {id:47,tS:23,tA:2} 
+Ghiseu 5: {id:46,tS:24,tA:1} {id:48,tS:27,tA:3} 
+
+
+ Timp: 30
+Clientii care asteapta:
+{id:4,tS:31,tA:3} {id:5,tS:31,tA:6} {id:32,tS:31,tA:4} {id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:2,tS:29,tA:6} 
+Ghiseu 2: {id:23,tS:27,tA:3} 
+Ghiseu 3: {id:20,tS:26,tA:2} 
+Ghiseu 4: {id:47,tS:23,tA:1} {id:3,tS:30,tA:4} 
+Ghiseu 5: {id:48,tS:27,tA:2} 
+
+
+ Timp: 31
+Clientii care asteapta:
+{id:6,tS:32,tA:4} {id:50,tS:32,tA:1} {id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:2,tS:29,tA:5} 
+Ghiseu 2: {id:23,tS:27,tA:2} {id:32,tS:31,tA:5} 
+Ghiseu 3: {id:20,tS:26,tA:1} {id:4,tS:31,tA:4} 
+Ghiseu 4: {id:3,tS:30,tA:4} 
+Ghiseu 5: {id:48,tS:27,tA:1} {id:5,tS:31,tA:7} 
+
+
+ Timp: 32
+Clientii care asteapta:
+{id:31,tS:33,tA:3} {id:43,tS:33,tA:4} {id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:2,tS:29,tA:5} {id:50,tS:32,tA:2} 
+Ghiseu 2: {id:23,tS:27,tA:1} {id:32,tS:31,tA:5} 
+Ghiseu 3: {id:4,tS:31,tA:4} 
+Ghiseu 4: {id:3,tS:30,tA:3} {id:6,tS:32,tA:5} 
+Ghiseu 5: {id:5,tS:31,tA:7} 
+
+
+ Timp: 33
+Clientii care asteapta:
+{id:8,tS:34,tA:6} {id:35,tS:34,tA:2} {id:49,tS:34,tA:1} {id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:2,tS:29,tA:3} {id:50,tS:32,tA:2} {id:43,tS:33,tA:5} 
+Ghiseu 2: {id:32,tS:31,tA:5} 
+Ghiseu 3: {id:4,tS:31,tA:3} {id:31,tS:33,tA:4} 
+Ghiseu 4: {id:3,tS:30,tA:2} {id:6,tS:32,tA:5} 
+Ghiseu 5: {id:5,tS:31,tA:6} 
+
+
+ Timp: 34
+Clientii care asteapta:
+{id:12,tS:35,tA:1} {id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:2,tS:29,tA:2} {id:50,tS:32,tA:2} {id:43,tS:33,tA:5} 
+Ghiseu 2: {id:32,tS:31,tA:4} {id:8,tS:34,tA:7} 
+Ghiseu 3: {id:4,tS:31,tA:2} {id:31,tS:33,tA:4} {id:49,tS:34,tA:2} 
+Ghiseu 4: {id:3,tS:30,tA:1} {id:6,tS:32,tA:5} 
+Ghiseu 5: {id:5,tS:31,tA:5} {id:35,tS:34,tA:3} 
+
+
+ Timp: 35
+Clientii care asteapta:
+{id:15,tS:36,tA:5} {id:34,tS:36,tA:6} {id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:2,tS:29,tA:1} {id:50,tS:32,tA:2} {id:43,tS:33,tA:5} 
+Ghiseu 2: {id:32,tS:31,tA:3} {id:8,tS:34,tA:7} 
+Ghiseu 3: {id:4,tS:31,tA:1} {id:31,tS:33,tA:4} {id:49,tS:34,tA:2} 
+Ghiseu 4: {id:6,tS:32,tA:5} {id:12,tS:35,tA:2} 
+Ghiseu 5: {id:5,tS:31,tA:4} {id:35,tS:34,tA:3} 
+
+
+ Timp: 36
+Clientii care asteapta:
+{id:29,tS:37,tA:4} {id:25,tS:39,tA:4} 
+Ghiseu 1: {id:50,tS:32,tA:2} {id:43,tS:33,tA:5} 
+Ghiseu 2: {id:32,tS:31,tA:2} {id:8,tS:34,tA:7} 
+Ghiseu 3: {id:31,tS:33,tA:4} {id:49,tS:34,tA:2} {id:15,tS:36,tA:6} 
+Ghiseu 4: {id:6,tS:32,tA:4} {id:12,tS:35,tA:2} {id:34,tS:36,tA:7} 
+Ghiseu 5: {id:5,tS:31,tA:3} {id:35,tS:34,tA:3} 
+
+
+ Timp: 37
+Clientii care asteapta:
+{id:25,tS:39,tA:4} 
+Ghiseu 1: {id:50,tS:32,tA:2} {id:43,tS:33,tA:5} 
+Ghiseu 2: {id:32,tS:31,tA:1} {id:8,tS:34,tA:7} 
+Ghiseu 3: {id:31,tS:33,tA:3} {id:49,tS:34,tA:2} {id:15,tS:36,tA:6} 
+Ghiseu 4: {id:6,tS:32,tA:3} {id:12,tS:35,tA:2} {id:34,tS:36,tA:7} 
+Ghiseu 5: {id:5,tS:31,tA:2} {id:35,tS:34,tA:3} {id:29,tS:37,tA:5} 
+
+
+ Timp: 38
+Clientii care asteapta:
+{id:25,tS:39,tA:4} 
+Ghiseu 1: {id:50,tS:32,tA:1} {id:43,tS:33,tA:5} 
+Ghiseu 2: {id:32,tS:31,tA:0} {id:8,tS:34,tA:7} 
+Ghiseu 3: {id:31,tS:33,tA:3} {id:49,tS:34,tA:2} {id:15,tS:36,tA:6} 
+Ghiseu 4: {id:6,tS:32,tA:2} {id:12,tS:35,tA:2} {id:34,tS:36,tA:7} 
+Ghiseu 5: {id:5,tS:31,tA:1} {id:35,tS:34,tA:3} {id:29,tS:37,tA:5} 
+
+
+ Timp: 39
+Clientii care asteapta:
+
+Ghiseu 1: {id:43,tS:33,tA:4} {id:25,tS:39,tA:5} 
+Ghiseu 2: {id:8,tS:34,tA:6} 
+Ghiseu 3: {id:31,tS:33,tA:1} {id:49,tS:34,tA:2} {id:15,tS:36,tA:6} 
+Ghiseu 4: {id:6,tS:32,tA:1} {id:12,tS:35,tA:2} {id:34,tS:36,tA:7} 
+Ghiseu 5: {id:35,tS:34,tA:3} {id:29,tS:37,tA:5} 
+
+
+ Timp: 40
+Clientii care asteapta:
+
+Ghiseu 1: {id:43,tS:33,tA:3} {id:25,tS:39,tA:5} 
+Ghiseu 2: {id:8,tS:34,tA:5} 
+Ghiseu 3: {id:49,tS:34,tA:2} {id:15,tS:36,tA:6} 
+Ghiseu 4: {id:12,tS:35,tA:2} {id:34,tS:36,tA:7} 
+Ghiseu 5: {id:35,tS:34,tA:2} {id:29,tS:37,tA:5} 
+
+
+ Timp: 41
+Clientii care asteapta:
+
+Ghiseu 1: {id:43,tS:33,tA:3} {id:25,tS:39,tA:5} 
+Ghiseu 2: {id:8,tS:34,tA:5} 
+Ghiseu 3: {id:49,tS:34,tA:2} {id:15,tS:36,tA:6} 
+Ghiseu 4: {id:12,tS:35,tA:1} {id:34,tS:36,tA:7} 
+Ghiseu 5: {id:35,tS:34,tA:1} {id:29,tS:37,tA:5} 
+
+
+ Timp: 42
+Clientii care asteapta:
+
+Ghiseu 1: {id:43,tS:33,tA:1} {id:25,tS:39,tA:5} 
+Ghiseu 2: {id:8,tS:34,tA:3} 
+Ghiseu 3: {id:15,tS:36,tA:6} 
+Ghiseu 4: {id:34,tS:36,tA:7} 
+Ghiseu 5: {id:29,tS:37,tA:5} 
+
+
+ Timp: 43
+Clientii care asteapta:
+
+Ghiseu 1: {id:25,tS:39,tA:5} 
+Ghiseu 2: {id:8,tS:34,tA:2} 
+Ghiseu 3: {id:15,tS:36,tA:5} 
+Ghiseu 4: {id:34,tS:36,tA:6} 
+Ghiseu 5: {id:29,tS:37,tA:4} 
+
+
+ Timp: 44
+Clientii care asteapta:
+
+Ghiseu 1: {id:25,tS:39,tA:4} 
+Ghiseu 2: {id:8,tS:34,tA:1} 
+Ghiseu 3: {id:15,tS:36,tA:4} 
+Ghiseu 4: {id:34,tS:36,tA:5} 
+Ghiseu 5: {id:29,tS:37,tA:3} 
+
+
+ Timp: 45
+Clientii care asteapta:
+
+Ghiseu 1: {id:25,tS:39,tA:4} 
+Ghiseu 2: {id:8,tS:34,tA:1} 
+Ghiseu 3: {id:15,tS:36,tA:4} 
+Ghiseu 4: {id:34,tS:36,tA:4} 
+Ghiseu 5: {id:29,tS:37,tA:3} 
+
+
+ Timp: 46
+Clientii care asteapta:
+
+Ghiseu 1: {id:25,tS:39,tA:2} 
+Ghiseu 2: inchis
+Ghiseu 3: {id:15,tS:36,tA:2} 
+Ghiseu 4: {id:34,tS:36,tA:3} 
+Ghiseu 5: {id:29,tS:37,tA:1} 
+
+
+ Timp: 47
+Clientii care asteapta:
+
+Ghiseu 1: {id:25,tS:39,tA:2} 
+Ghiseu 2: inchis
+Ghiseu 3: {id:15,tS:36,tA:1} 
+Ghiseu 4: {id:34,tS:36,tA:2} 
+Ghiseu 5: inchis
+
+
+ Timp: 48
+Clientii care asteapta:
+
+Ghiseu 1: inchis
+Ghiseu 2: inchis
+Ghiseu 3: inchis
+Ghiseu 4: {id:34,tS:36,tA:1} 
+Ghiseu 5: inchis
+
+
+ Timp: 49
+Clientii care asteapta:
+
+Ghiseu 1: inchis
+Ghiseu 2: inchis
+Ghiseu 3: inchis
+Ghiseu 4: inchis
+Ghiseu 5: inchis
+
+ Timp mediu de asteptare : 21.72
+ Timp mediu de servire : 3.22
+ peak_h : 37
